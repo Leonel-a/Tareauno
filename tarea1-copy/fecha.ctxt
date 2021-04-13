@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=fecha
+comment1.params=dia\ mes\ a\u00F1o
+comment1.target=fecha(int,\ int,\ int)
+comment2.params=dia
+comment2.target=void\ setDia(int)
+comment3.params=
+comment3.target=int\ getDia()
+comment4.params=args
+comment4.target=void\ main(java.lang.String)
+numComments=5
